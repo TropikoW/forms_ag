@@ -1,1 +1,15 @@
 /* You can add global styles to this file, and also import other style files */
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+:root{
+  --colourBtn : #ffca43;
+  --colourBtnValidateInput : #71a5fd;
+  --colourBtnInvalidateInput : #365283;
+  --colourHeaderBackground : #21252a;
+  --colourWhite : #ffffff;
+  --colourRed : #ff0000;
+  --fontMain : 'Playpen Sans', cursive;
+}
